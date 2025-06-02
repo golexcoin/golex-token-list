@@ -12,7 +12,7 @@ It allows wallets, DEXs, and DeFi platforms to automatically recognize and displ
 - **Decimals:** 18  
 - **Contract Address:** `0x79150fdbA0af0879e190D14923651e697b1329e8`  
 - **Chain ID:** 1 (Ethereum Mainnet)  
-- **Logo URI:** ![GOLEX Logo](https://golexcoin.org/assets/img/logo/logo-golexcoin.svg)
+- **Logo URL:** ![GOLEX Logo](https://golexcoin.org/assets/img/logo/logo-golexcoin.svg)
 
 ## JSON File
 
