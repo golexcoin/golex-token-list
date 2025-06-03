@@ -19,4 +19,4 @@ It allows wallets, DEXs, and DeFi platforms to automatically recognize and displ
 
 You can use this token list by importing it to Uniswap or other dApps via:
 
-`https://raw.githubusercontent.com/golexcoin/golex-token-list/main/golex.tokenlist.json`
+`https://raw.githubusercontent.com/golexcoin/golex-token-list/main/tokenlist.json`
