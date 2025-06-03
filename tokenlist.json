@@ -1,12 +1,13 @@
+
 {
   "name": "Golex Token List",
-  "logoURI": "https://golexcoin.org/assets/img/logo/logo-golexcoin.svg",
+  "logoURI": "https://golexcoin.org/assets/logo/logo-golexcoin-256x256.png",
   "keywords": [
     "golex",
     "token",
     "golexcoin"
   ],
-  "timestamp": "2025-05-29T20:43:16+00:00",
+  "timestamp": "2025-06-03T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -14,7 +15,7 @@
       "name": "GolexCoin",
       "symbol": "GOLEX",
       "decimals": 18,
-      "logoURI": "https://golexcoin.org/assets/img/logo/logo-golexcoin.svg"
+      "logoURI": "https://golexcoin.org/assets/logo/logo-golexcoin-256x256.png"
     }
   ],
   "version": {
